@@ -1,0 +1,7 @@
+{
+    "require": {
+        "copyleaks/php-plagiarism-checker": "^1.4",
+        "paquettg/php-html-parser": "^2.1",
+        "fabpot/goutte": "^4.0"
+    }
+}
